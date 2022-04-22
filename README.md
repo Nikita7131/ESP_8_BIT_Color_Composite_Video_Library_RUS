@@ -1,5 +1,10 @@
 # ESP_8_BIT_Color_Composite_Video_Library_RUS
 ESP32_8_BIT_Color_Composite_Video_Library_RUS 
+esp32 composite video rus
+esp32 композитне відео кириллица
+esp32 композитное видео кириллица
+
+
 
 не большой код для русификации библиотеки ESP_8_BIT_Color_Composite_Video_Library оригинал https://github.com/Roger-random/ESP_8_BIT_composite
 
